@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: Cookie-Processor
+  main:
+    banner-mode: off
+
+logging:
+  level:
+    org:
+      springframework: ERROR
+    root: ERROR
